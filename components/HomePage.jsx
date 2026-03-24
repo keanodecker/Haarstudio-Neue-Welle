@@ -357,7 +357,7 @@ const HomePage = () => {
             className="text-center mb-12"
           >
             <h2 className="mb-4">Kundenbewertungen</h2>
-            <p className="text-lg text-muted-foreground">
+            <p className="text-lg text-muted-foreground text-center mx-auto">
               Was unsere Kunden über uns sagen
             </p>
           </motion.div>
@@ -381,7 +381,7 @@ const HomePage = () => {
             className="text-center mb-12"
           >
             <h2 className="mb-4">Kontakt</h2>
-            <p className="text-lg text-muted-foreground">
+            <p className="text-lg text-muted-foreground text-center mx-auto">
               Vereinbaren Sie Ihren Termin
             </p>
           </motion.div>
