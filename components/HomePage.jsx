@@ -266,7 +266,7 @@ const HomePage = () => {
             className="text-center mb-12"
           >
             <h2 className="mb-4">Preise</h2>
-            <p className="text-lg text-muted-foreground">
+            <p className="text-lg text-muted-foreground text-center">
               Faire und transparente Preisgestaltung
             </p>
           </motion.div>
